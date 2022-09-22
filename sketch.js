@@ -1,6 +1,6 @@
 let xBolinha = 300;
 let yBolinha = 200;
-let diametro = 10;
+let diametro = 15;
 
 let velocidadeXBolinha = 6;
 let velocidadeYBolinha = 6;
